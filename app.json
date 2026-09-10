@@ -1,0 +1,11 @@
+{
+    "expo": {
+        "name": "Smart Tools All in One",
+            "slug": "smart-tools-all-in-one",
+                "version": "1.0.0",
+                    "orientation": "portrait",
+                        "icon": "./icon.png",
+                            "userInterfaceStyle": "light"
+                              }
+                              }
+}
